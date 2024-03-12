@@ -10,3 +10,9 @@
 ### Praktikum 2.1
 1. Hasil langkah 1-2
 <img width="267" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/34ecaf00-c21f-4e78-896c-529ff2daeebc">
+
+2. Hasil 4
+<img width="267" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/34ecaf00-c21f-4e78-896c-529ff2daeebc">
+
+3. Hasil 6
+<img width="267" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/34ecaf00-c21f-4e78-896c-529ff2daeebc">

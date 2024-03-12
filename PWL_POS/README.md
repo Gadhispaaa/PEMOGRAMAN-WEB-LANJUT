@@ -11,8 +11,16 @@
 1. Hasil langkah 1-2
 <img width="267" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/34ecaf00-c21f-4e78-896c-529ff2daeebc">
 
-2. Hasil 4
+2. Hasil langkah 4
 <img width="267" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/34ecaf00-c21f-4e78-896c-529ff2daeebc">
 
-3. Hasil 6
+3. Hasil langkah 6
 <img width="267" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/34ecaf00-c21f-4e78-896c-529ff2daeebc">
+
+4. Hasil langkah 8
+<img width="265" alt="Screenshot 2024-03-12 231211" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/96b978a0-6df7-47f9-b0cd-a9516ff81e33">
+
+5. Hasil Langkah 10, terjadi eror karena tidak ditemukan id user 20 maka akan muncul seperti dibawah
+<img width="468" alt="Screenshot 2024-03-12 231311" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/6b8bc43f-6707-4f37-9b90-89f7429f54a8">
+
+

@@ -88,6 +88,24 @@
 <img width="358" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/931bb8de-bad5-43a2-b509-5f5e2674b84a">
 <img width="371" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/c69849ce-9671-415b-a02e-ad7946c24b04">
 
+4. Hasil langkah 11-13
+- menampilkan halaman edit data yang berisi data yang dipilih sebelumnya
+<img width="378" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/39cdf080-fa3e-4720-881a-41c564a476a4">
+
+5. Hasil langkah 15-16
+- data yang di ubah datanya perubahanya disimpan pada database.
+<img width="376" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/f6e57f3c-677a-42bf-823f-3e26cbc06f93">
+<img width="359" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/77f43526-da19-479e-8ac4-1b30d3f8d924">
+
+6. Hasil langkah 18-19
+- data terhapus dari database.
+<img width="370" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/66c99c15-e86d-449b-9c4b-cc6e3d649522">
+
+
+
+
+
+
 
 
 

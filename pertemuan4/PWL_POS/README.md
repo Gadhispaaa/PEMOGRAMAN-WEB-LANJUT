@@ -71,6 +71,11 @@
 - Program mengembalikan nilai false karena model sudah disimpan. Namun, ketika dicek menggunakan isDirty() untuk mengecek apakah data telah diubah, program mengembalikan nilai karena memang belum ada perubahan yang dilakukan.
 <img width="299" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/6820923c-0514-47e6-9394-9bb1b7a3b00c">
 
+2. Hasil langkah 3
+- Program mengembalikan nilai true karena model telah diubah. Jika menggunakan helper wasChanged(), meskipun sudah disimpan dengan save(), jika data memang berbeda dengan yang aslinya, maka akan terdeteksi sebagai perubahan.
+<img width="420" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/8cd2596f-fa16-4ca3-a2e4-05f86e55fb9b">
+
+
 
 
 

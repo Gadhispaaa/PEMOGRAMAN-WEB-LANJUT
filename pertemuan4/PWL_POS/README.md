@@ -36,6 +36,17 @@
 - karena tidak ditemukannya pengguna dengan username 'manager9', sehingga browser mengembalikan halaman 'NOT FOUND'.
 <img width="921" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/0e62a61a-e3cf-443a-b757-408e01cd798a">
 
+### Praktikum 2.3
+1. Hasil langkah 1
+- browser mengembalikan banyak pengguna yang memiliki level_id 2
+<img width="418" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/4140cdc3-5a3f-4db0-81ab-79690cf963e6">
+
+2. Hasil langkah 3
+<img width="219" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/5a244cdb-cbe9-41e9-818c-787a5db1589e">
+
+
+
+
 
 
 

@@ -23,4 +23,9 @@
 5. Hasil Langkah 10, terjadi eror karena tidak ditemukan id user 20 maka akan muncul seperti dibawah
 <img width="468" alt="Screenshot 2024-03-12 231311" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/6b8bc43f-6707-4f37-9b90-89f7429f54a8">
 
+### Praktikum 2.2
+1. Hasil langkah 1
+<img width="318" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/42bbd5cd-675f-47fb-a0a5-e0ec5d5b7ea0">
+
+
 

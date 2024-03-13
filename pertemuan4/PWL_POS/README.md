@@ -53,6 +53,20 @@
 <img width="298" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/7d062844-72a2-4c5e-93f8-12b8667dea9a">
 <img width="698" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/e1edb389-3538-4169-b5f6-868f7489488c">
 
+3. Hasil langkah 6
+- program tidak menambahkan data karena username dan nama diatas sudah ada di database
+<img width="239" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/f7c6a747-e461-499e-af8e-0a0f686fdba3">
+
+4. Hasil Langkah 8
+-program membuat satu record data dengan data seperti diatas tetapi tidak di simpan pada db karena di database tidak ada data seperti itu.
+<img width="306" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/c6a64105-8f99-4fce-8bc4-f0cb7cbb6e03">
+
+5. Hasil langkah 10
+- data disimpan pada database karena data diatas belum ada di database hal ini ditandai dengan adanya id baru.
+<img width="284" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/e3ddd62b-1b33-4b76-95cc-b5b66988955e">
+<img width="697" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/42d63fb8-9470-4f98-86ba-46d5e13379e7">
+
+
 
 
 

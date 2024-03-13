@@ -66,6 +66,12 @@
 <img width="284" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/e3ddd62b-1b33-4b76-95cc-b5b66988955e">
 <img width="697" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/42d63fb8-9470-4f98-86ba-46d5e13379e7">
 
+### Praktikum 2.5
+1. Hasil langkah 1
+- Program mengembalikan nilai false karena model sudah disimpan. Namun, ketika dicek menggunakan isDirty() untuk mengecek apakah data telah diubah, program mengembalikan nilai karena memang belum ada perubahan yang dilakukan.
+<img width="299" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/6820923c-0514-47e6-9394-9bb1b7a3b00c">
+
+
 
 
 

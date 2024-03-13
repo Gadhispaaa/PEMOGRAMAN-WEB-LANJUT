@@ -44,6 +44,18 @@
 2. Hasil langkah 3
 <img width="219" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/5a244cdb-cbe9-41e9-818c-787a5db1589e">
 
+### Praktikum 2.4
+1. Hasil langkah 1-2
+<img width="246" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/126359ba-7ec8-4662-ba82-15112f8d64c8">
+
+2. Hasil langkah 4
+- menambahkan data sesuai Langkah yang sebelumnya
+<img width="298" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/7d062844-72a2-4c5e-93f8-12b8667dea9a">
+<img width="698" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/e1edb389-3538-4169-b5f6-868f7489488c">
+
+
+
+
 
 
 

@@ -75,6 +75,23 @@
 - Program mengembalikan nilai true karena model telah diubah. Jika menggunakan helper wasChanged(), meskipun sudah disimpan dengan save(), jika data memang berbeda dengan yang aslinya, maka akan terdeteksi sebagai perubahan.
 <img width="420" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/8cd2596f-fa16-4ca3-a2e4-05f86e55fb9b">
 
+### Praktikum 2.6
+1. Hasil langkah 1-2
+- browser mengembalikan view dengan data sesuai perintah.
+<img width="356" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/ef80ec82-e2d3-4a9d-92e4-194ece856292">
+
+2. Hasil langkah 4-6
+<img width="276" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/1a0c6d17-b3f5-4e4c-b1e8-a8c17dd2205c">
+
+3. Hasil langkah 8-9
+- terjadi input baru di simpan pada database seperti pada gambar.
+<img width="358" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/931bb8de-bad5-43a2-b509-5f5e2674b84a">
+<img width="371" alt="image" src="https://github.com/Gadhispaaa/PEMOGRAMAN-WEB-LANJUT/assets/91443563/c69849ce-9671-415b-a02e-ad7946c24b04">
+
+
+
+
+
 
 
 

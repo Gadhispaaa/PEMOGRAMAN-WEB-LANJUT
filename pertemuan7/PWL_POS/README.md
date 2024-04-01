@@ -7,6 +7,8 @@ Program Studi : D4 – Sistem Informasi Bisnis
 
 Kelas    : SIB-3C
 
+![alt text](<WhatsApp Image 2024-02-16 at 07.27.13.jpeg>)
+
 
 
 

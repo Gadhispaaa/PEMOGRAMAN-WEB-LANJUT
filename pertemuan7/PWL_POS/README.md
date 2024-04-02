@@ -80,9 +80,12 @@ Semua filtering berfungsi dengan baik
 3. Jelaskan fungsi dari komponen laravel blade berikut :
 - @include() -> Digunakan untuk menyertakan file blade lain ke dalam view
 - @extend() -> Digunakan untuk mewarisi layout dari view 'parent' atau mendefinisikan layout dasar yang dapat digunakan oleh banyak halaman.
-- @section() -> Digunakan untuk menentukan area konten yang berbeda dalam layout dasar
+- @section() -> Digunakan untuk mendefinisikan sebuah section, juga bisa untuk 
+mengisi section yang diharapkan oleh parent view / layout melalui @yield. Diakhiri dengan 
+@endsction. 
 - @push() -> Digunakan untuk menambahkan konten ke stack tertentu.
-- @yield() -> Digunakan untuk menampilkan konten dari sebuah @section()
+- @yield() -> Digunakan untuk mendefinisikan bagian dari layout yang 
+akan digunakan dan diisi oleh child view.
 - @stack() -> Digunkan untuk menampilkan seluruh konten yang telah ditambahkan ke sebuah stack dengan @push()
 
 4. Apa fungsi dan tujuan dari variable $activeMenu ? 

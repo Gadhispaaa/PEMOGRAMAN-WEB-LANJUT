@@ -44,6 +44,15 @@ Pada hasil akhir praktikum 1, terdapat 5 element
 
 ![alt text](<Screenshot 2024-04-02 093854.png>)
 
+- Langkah 20 : Mengupdate sesuai data baru
+1. Menambahkan data user
+
+![alt text](<Screenshot 2024-04-02 100401.png>)
+
+2. Lalu klik simpan dan data akan bertambah sesuai data baru dibagian paling bawah (Nomor 9)
+
+![alt text](<Screenshot 2024-04-02 100258.png>)
+
 
 
 

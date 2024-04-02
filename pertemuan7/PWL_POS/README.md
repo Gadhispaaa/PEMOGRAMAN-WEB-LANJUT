@@ -53,6 +53,9 @@ Pada hasil akhir praktikum 1, terdapat 5 element
 
 ![alt text](<Screenshot 2024-04-02 100258.png>)
 
+- Langkag 24 : Menghapus data
+![alt text](<Screenshot 2024-04-02 100936.png>)
+
 
 
 

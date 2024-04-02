@@ -29,7 +29,6 @@ Pada hasil akhir praktikum 1, terdapat 5 element
 
 ![alt text](<Screenshot 2024-04-02 092410.png>)
 
-
 5. Element 5-Footer (pada abris ke-48)
 
 ![alt text](<Screenshot 2024-04-02 092525.png>)
@@ -55,6 +54,22 @@ Pada hasil akhir praktikum 1, terdapat 5 element
 
 - Langkag 24 : Menghapus data
 ![alt text](<Screenshot 2024-04-02 100936.png>)
+
+### Praktikum 4 – Implementasi Filtering Datatables
+1. Filter "Administrator"
+
+![alt text](<Screenshot 2024-04-02 101450.png>)
+
+2. Filter "Manager"
+
+![alt text](<Screenshot 2024-04-02 101507.png>)
+
+3. Filter "Staff/Kasir"
+
+![alt text](<Screenshot 2024-04-02 101521.png>)
+
+Semua filtering berfungsi dengan baik
+
 
 
 

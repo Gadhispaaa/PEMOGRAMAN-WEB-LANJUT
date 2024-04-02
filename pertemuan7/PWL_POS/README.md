@@ -34,11 +34,15 @@ Pada hasil akhir praktikum 1, terdapat 5 element
 
 ![alt text](<Screenshot 2024-04-02 092525.png>)
 
-### Prsktikum 2 - Penerapan Layouting
+### Praktikum 2 - Penerapan Layouting
 
 ![alt text](<Screenshot 2024-04-02 093615.png>)
 
+### Praktikum 3 - Implementasi jQuery Datatable di AdminLTE
 
+- Langkah 16 : Menampilkan pesan 'Data yang anda cari tidak ditemukan'
+
+![alt text](<Screenshot 2024-04-02 093854.png>)
 
 
 

@@ -34,8 +34,9 @@ Pada hasil akhir praktikum 1, terdapat 5 element
 
 ![alt text](<Screenshot 2024-04-02 092525.png>)
 
+### Prsktikum 2 - Penerapan Layouting
 
-
+![alt text](<Screenshot 2024-04-02 093615.png>)
 
 
 

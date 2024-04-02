@@ -70,6 +70,25 @@ Pada hasil akhir praktikum 1, terdapat 5 element
 
 Semua filtering berfungsi dengan baik
 
+### Pertanyaan
+1. Apa perbedaan frontend template dengan backend  template? 
+- Frontend berfokus pada desain antarmuka pengguna atau apa yang dilihat dan dialami oleh pengguna. Sedangkan backend berfokus pada server-side atau bagaimana data diproses dan dikelola di belakang layar.
+
+2. Apakah layouting itu penting dalam membangun sebuah website? 
+- Tentu sangat penting, karena layouting merupakan kerangka dasar yang menentukan struktur visual dan alur navigasi sebuah website.
+
+3. Jelaskan fungsi dari komponen laravel blade berikut :
+- @include() -> Digunakan untuk menyertakan file blade lain ke dalam view
+- @extend() -> Digunakan untuk mewarisi layout dari view 'parent' atau mendefinisikan layout dasar yang dapat digunakan oleh banyak halaman.
+- @section() -> Digunakan untuk menentukan area konten yang berbeda dalam layout dasar
+- @push() -> Digunakan untuk menambahkan konten ke stack tertentu.
+- @yield() -> Digunakan untuk menampilkan konten dari sebuah @section()
+- @stack() -> Digunkan untuk menampilkan seluruh konten yang telah ditambahkan ke sebuah stack dengan @push()
+
+4. Apa fungsi dan tujuan dari variable $activeMenu ? 
+- Fungsinya adalah untuk menentukan menu mana yang aktif pada saat itu diantarmuka pengguna
+- Tujuannya adalah untuk memberikan feedback visual kepada pengguna tentang halaman atau bagian dari aplikasi yang sedang dilihat
+
 
 
 

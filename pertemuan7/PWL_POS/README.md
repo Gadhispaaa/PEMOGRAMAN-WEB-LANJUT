@@ -89,6 +89,20 @@ Semua filtering berfungsi dengan baik
 - Fungsinya adalah untuk menentukan menu mana yang aktif pada saat itu diantarmuka pengguna
 - Tujuannya adalah untuk memberikan feedback visual kepada pengguna tentang halaman atau bagian dari aplikasi yang sedang dilihat
 
+### TUGAS
+1. Halaman 'MANAJEMEN LEVEL'
+
+![alt text](<Screenshot 2024-04-02 104401.png>)
+
+2. Halaman 'MANAJEMEN USER;
+
+![alt text](<Screenshot 2024-04-02 104459.png>)
+
+3. Halaman 'MANAJEMEN KATEGORI'
+![alt text](<Screenshot 2024-04-02 104535.png>)
+
+4. Halaman 'MANAJEMEN KATEGORI BARANG'
+![alt text](<Screenshot 2024-04-02 104555.png>)
 
 
 

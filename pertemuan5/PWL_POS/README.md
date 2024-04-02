@@ -9,4 +9,4 @@ Kelas    : SIB-3C
 
 ### Praktikum 1 - Integrasi Laravel dengan AdminLte3 
 
-![alt text](<Screenshot (329).png>)
+![alt text](<Screenshot (329)-1.png>)

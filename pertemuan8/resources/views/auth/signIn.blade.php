@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>PWL POS | Sign In</title>
+  <title>PWL POS PENJUALAN| Sign In</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet"
@@ -22,7 +22,7 @@
     <!-- /.login-logo -->
     <div class="card card-outline card-primary">
       <div class="card-header text-center">
-        <div class="h1">PWL POS</div>
+        <div class="h1">PWL POS PENJUALAN</div>
       </div>
       <div class="card-body">
         <p class="login-box-msg">Sign in to start your session</p>

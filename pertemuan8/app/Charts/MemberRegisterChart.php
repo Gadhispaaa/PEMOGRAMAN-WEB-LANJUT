@@ -69,7 +69,7 @@ class MemberRegisterChart
             ->setSubtitle(' Registrant Growth in '.Carbon::now()->format('F'))
             ->addData('Number of Registrants', $data)
             ->setXAxis($date)
-            ->setColors(['#F6995C'])
-            ->setMarkers(['#f5721b'], 8);
+            ->setColors(['#86469C'])
+            ->setMarkers(['#FFCDEA'], 8);
     }
 }

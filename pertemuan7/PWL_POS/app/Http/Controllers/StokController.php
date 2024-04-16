@@ -24,7 +24,7 @@ class StokController extends Controller
         $activeMenu = 'stok';
 
         $barang = BarangModel::all();
-        $user = userModel::all();
+        $user = UserModel::all();
 
         return view('stok.index', [
         'breadcrumb' => $breadcrumb, 
@@ -66,7 +66,7 @@ class StokController extends Controller
 
     public function show(string $id)
     {
-        $stok = stokModel::with('barang')->with('user')->find($id);
+        $stok = StokModel::with('barang')->with('user')->find($id);
 
         $breadcrumb = (object) [
             'title' => 'Detail Stok',
@@ -120,14 +120,14 @@ class StokController extends Controller
             'stok_jumlah' => 'required|numeric',
         ]);
 
-        stokModel::create($request->all());
+        StokModel::create($request->all());
 
         return redirect('/stok')->with('success', 'Data stok berhasil disimpan');
     }
 
     public function edit(string $id)
     {
-        $stok = stokModel::with('barang')->with('user')->find($id);
+        $stok = StokModel::with('barang')->with('user')->find($id);
 
         // dd($stok);
 
